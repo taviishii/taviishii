@@ -4,12 +4,13 @@
 
 ---
 
-- 🎓 Student at Motilal Nehru National Institute of Technology
-- 🖌️ Proficient in UX Design | Focused on building intuitive digital experiences
-- 💻 Keen on the PERN & MERN Stacks
-- 🔤 Languages: Java, C++, JavaScript (MERN/PERN)
-- 🧩 Exploring the intersection of design & development
-- 👯‍♀️ Up for collaboration on creative dev ideas
+- Student at Motilal Nehru National Institute of Technology
+- Proficient in UX Design | Focused on building intuitive digital experiences
+- Keen on the PERN & MERN Stacks
+- Languages: Java, C++, JavaScript (MERN/PERN)
+- Exploring the intersection of design & development
+
+Up for collaboration on creative dev ideas 🤝
 
 [![Local Time](https://img.shields.io/badge/local%20time-UTC%2B5%3A30-blue?style=flat-square&logo=clockify)](https://time.is/IST)
 
